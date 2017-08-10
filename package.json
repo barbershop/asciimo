@@ -1,7 +1,7 @@
 {
   "name": "@barbershopio/asciimo",
   "description": "create awesome ascii art with javascript! works in node.js or the browser.",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "repository": {
       "type": "git",
       "url": "http://github.com/barbershop/asciimo.git"
